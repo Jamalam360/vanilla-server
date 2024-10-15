@@ -1,0 +1,16 @@
+{
+    "filename": "ledger-1.3.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "68eb5d3e992b6634efe62a0980295f9ecea210c1",
+        "sha512": "9701759b8507478ec19a8d441d884e2c5c41f7932207805e18ec1f14f17e3ff64394e31ee28d47b776730dde0c3a97ceca5f27af49d8b38d4a1577fb39351b44",
+        "murmur2": 516371402
+    },
+    "fileSize": 20454000,
+    "sources": {
+        "modrinth": {
+            "projectId": "LVN9ygNV",
+            "fileUrl": "https://cdn.modrinth.com/data/LVN9ygNV/versions/mb29Srom/ledger-1.3.4.jar"
+        }
+    }
+}

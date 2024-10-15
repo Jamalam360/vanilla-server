@@ -1,0 +1,16 @@
+{
+    "filename": "krypton-0.2.8.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "73e792eb5f120787becda4b87b6ff18b26caea50",
+        "sha512": "5f8cf96c79bfd4d893f1d70da582e62026bed36af49a7fa7b1e00fb6efb28d9ad6a1eec147020496b4fe38693d33fe6bfcd1eebbd93475612ee44290c2483784",
+        "murmur2": 1419355547
+    },
+    "fileSize": 161045,
+    "sources": {
+        "modrinth": {
+            "projectId": "fQEb0iXm",
+            "fileUrl": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "filename": "vmp-fabric-mc1.21.1-0.2.0+beta.7.168-all.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "cb76b60adedbcf1515c62b3614068fdc28a0e325",
+        "sha512": "5e2360e91a36d0e76ff0e805c504c773a1449252572ae218edf4430bdf179ac50b1a080d3ca25ecca266499b5637b5b92a228d1c6516e742a7c9f560791c4059",
+        "murmur2": 1841785633
+    },
+    "fileSize": 432881,
+    "sources": {
+        "modrinth": {
+            "projectId": "wnEe9KBa",
+            "fileUrl": "https://cdn.modrinth.com/data/wnEe9KBa/versions/VuFHjBNh/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.168-all.jar"
+        }
+    }
+}

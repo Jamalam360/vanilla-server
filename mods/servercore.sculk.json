@@ -1,0 +1,16 @@
+{
+    "filename": "servercore-fabric-1.5.5+1.21.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "73a4b5e599e55e76bd3a53df55327ea65dd8b472",
+        "sha512": "3566dbbc73e266b907fff2143bb8279783eecd5a9aa185afe0814919574dca18d61f4066e9ac184530f322f7ffa574b4d3240590742d27d9dfe6ea11f5d27478",
+        "murmur2": 2632896676
+    },
+    "fileSize": 895530,
+    "sources": {
+        "modrinth": {
+            "projectId": "4WWQxlQP",
+            "fileUrl": "https://cdn.modrinth.com/data/4WWQxlQP/versions/wPZETsJM/servercore-fabric-1.5.5%2B1.21.1.jar"
+        }
+    }
+}

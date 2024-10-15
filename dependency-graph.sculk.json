@@ -1,0 +1,8 @@
+{
+    "mods/fabric-language-kotlin.sculk.json": [
+        "mods/ledger.sculk.json"
+    ],
+    "mods/fabric-api.sculk.json": [
+        "mods/ledger.sculk.json"
+    ]
+}

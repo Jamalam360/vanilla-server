@@ -1,0 +1,91 @@
+{
+    "formatVersion": "1.1",
+    "name": "Vanilla Server",
+    "version": "1.0.0",
+    "minecraft": "1.21.1",
+    "loader": {
+        "type": "fabric",
+        "version": "0.16.7"
+    },
+    "manifests": [
+        {
+            "path": "mods/ledger.sculk.json",
+            "sha256": "ffbd1f878b3d0c5ae60f410f13f5a193c0d654c0de912c25d07a195f35207312"
+        },
+        {
+            "path": "mods/fabric-api.sculk.json",
+            "sha256": "d3aa833170211415dbb57e70b7511a3369d01a5a1a11e159610764e14b16a478"
+        },
+        {
+            "path": "mods/fabric-language-kotlin.sculk.json",
+            "sha256": "224da628d11ad51cb690257dea361ac2b8fd59822ae3bdd58abfde0a20e81f7f"
+        },
+        {
+            "path": "mods/servercore.sculk.json",
+            "sha256": "bf2dc79183f38087fcc5ccf76e34864450b7684e254da10b9adfd4d8df26489f"
+        },
+        {
+            "path": "mods/noisium.sculk.json",
+            "sha256": "561f37f95f7bd4c7b6541352cf2ec05573c3e4f3313617b03da5b282779ff355"
+        },
+        {
+            "path": "mods/c2me-fabric.sculk.json",
+            "sha256": "22993563c67fd15bc07290ccdf513accb0e4d6d8f89a395a40aef647466e77f3"
+        },
+        {
+            "path": "mods/krypton.sculk.json",
+            "sha256": "e7db0bfaec0144db09ba4a62e6f9c763ca00b771f5ee81d7e7613532d0e8d21f"
+        },
+        {
+            "path": "mods/badoptimizations.sculk.json",
+            "sha256": "e8ddd82da5a86505eab426badce43b51801f673af4212a9a939b6b06cf26e29e"
+        },
+        {
+            "path": "mods/lithium.sculk.json",
+            "sha256": "42ee78b019a691b04ab7549242aee2efbf5500a57df1175c9b66078fd468bbad"
+        },
+        {
+            "path": "mods/modernfix.sculk.json",
+            "sha256": "7b2c11853cd425d91196dbc9281bc7de6cd9de2123619dc8cddb8a975bc1a28a"
+        },
+        {
+            "path": "mods/ferrite-core.sculk.json",
+            "sha256": "6e791b81f31aea682a1186b5f4eb1f58c25f5da545276942f404b3b87b06fa87"
+        },
+        {
+            "path": "mods/threadtweak.sculk.json",
+            "sha256": "d363bfd64a425e22c6ae0123f6c4c24674e91323e3b754503345183510ab3a32"
+        },
+        {
+            "path": "mods/vmp-fabric.sculk.json",
+            "sha256": "62fba71b03ca5a5f1a734a26a0fbb8edfac5f4f89eebf52c98f0cb9075fdb4b2"
+        }
+    ],
+    "files": [
+        {
+            "path": "config/modernfix-mixins.properties",
+            "side": "both",
+            "sha256": "eb5b25637b65d593b2974805c70f6ef3558942641dbf7e3c72bc5fb25e2f16e0"
+        },
+        {
+            "path": "config/threadtweak.json",
+            "side": "both",
+            "sha256": "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+        },
+        {
+            "path": "config/vmp.properties",
+            "side": "both",
+            "sha256": "c6c58a0d81f8c0a54d49e5d04bd7d89d7da07f0bb36bc047aa4d588bf47ff2f7"
+        },
+        {
+            "path": "config/servercore.toml",
+            "side": "both",
+            "sha256": "d208f38c538ea06d308f923db5e8aa8e6a93f5e2456a7ab335a94955ff081d25"
+        },
+        {
+            "path": "config/ferritecore.mixin.properties",
+            "side": "both",
+            "sha256": "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+        }
+    ]
+}

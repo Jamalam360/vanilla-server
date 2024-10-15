@@ -1,0 +1,16 @@
+{
+    "filename": "modernfix-fabric-5.19.3+mc1.21.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "e2d8ee6f75d2b027ae73eafbf9f38c1eb4a35a93",
+        "sha512": "36b4fa178e73b7eef5f42df619e67fe71307fafce8b1582acb11c36ad6792fafe88870d74e178898824ede405bd0873a8b00460f6507bdf87be9cfb6353edc7d",
+        "murmur2": 2862165256
+    },
+    "fileSize": 422437,
+    "sources": {
+        "modrinth": {
+            "projectId": "nmDcB62a",
+            "fileUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/T1ftCUJv/modernfix-fabric-5.19.3%2Bmc1.21.1.jar"
+        }
+    }
+}
